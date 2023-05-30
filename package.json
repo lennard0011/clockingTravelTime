@@ -1,0 +1,13 @@
+{
+    "name": "clocking-travel-time",
+    "version": "1.0.0",
+    "description": "clock your travel time",
+    "main": "index.js",
+    "author": "lennard0011",
+    "license": "MIT",
+     "dependencies": {
+    },
+    "scripts": {
+      "start": "node index.js"
+    }
+  }
